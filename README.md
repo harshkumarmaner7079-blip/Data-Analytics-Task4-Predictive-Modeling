@@ -16,3 +16,5 @@ The final phase of the internship involved building a predictive engine to forec
 
 ## **Final Insights**
 The high R2 score of **0.9596** indicates that the model is extremely reliable. The business can now use this tool to simulate different sales scenarios, helping to optimize inventory levels and prepare for high-revenue periods like the January surge discovered in Task 2.
+
+[⬅️ Back to Master Portfolio](https://github.com/harshkumarmaner7079-blip/ApexPlanet-Data-Analytics-Internship-Portfolio)
